@@ -1,0 +1,6 @@
+c:\users\danil\documents\visual studio 2015\Projects\RNET\RNET\bin\Debug\RNET.exe.config
+c:\users\danil\documents\visual studio 2015\Projects\RNET\RNET\bin\Debug\RNET.exe
+c:\users\danil\documents\visual studio 2015\Projects\RNET\RNET\bin\Debug\RNET.pdb
+c:\users\danil\documents\visual studio 2015\Projects\RNET\RNET\obj\Debug\RNET.csprojResolveAssemblyReference.cache
+c:\users\danil\documents\visual studio 2015\Projects\RNET\RNET\obj\Debug\RNET.exe
+c:\users\danil\documents\visual studio 2015\Projects\RNET\RNET\obj\Debug\RNET.pdb
